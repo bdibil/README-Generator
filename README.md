@@ -1,4 +1,4 @@
-# <Title Here> 
+# <README Generator> 
 
 ## Description  
 - This project is a command-line application that dynamically generates an OUTPUT_README.md file from a user's input 
