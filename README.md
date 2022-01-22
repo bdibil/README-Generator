@@ -1,5 +1,6 @@
-# <README Generator> 
-
+<README Generator> 
+#README Generator
+  
 ## Description  
 - This project is a command-line application that dynamically generates an OUTPUT_README.md file from a user's input 
 - It was built to practice using Node.js filesystem module, and installing [npm](https://www.npmjs.com/) dependencies like the [Inquirer package](https://www.npmjs.com/package/inquirer). 
