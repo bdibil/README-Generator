@@ -53,11 +53,11 @@ SOFTWARE.
 
 
 ## Contributing  
-There are no contributing guidelines at this time as they are planed for future development
+There are no contributing guidelines at this time as they are planed for future development.
 
 
 ## Tests     
-Tests for this app are planed as future development
+Tests for this app are planed as future development.
 
 
 ## Questions 
