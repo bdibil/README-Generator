@@ -9,7 +9,7 @@
 ## Table of Contents 
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)  ![MIT](https://img.shields.io/apm/l/vim-mode)
+- [License](#license)    ![MIT](https://img.shields.io/apm/l/vim-mode)
 - [Contributing](#contributing)
 - [Tests](#Tests)
 - [Questions](#Questions)
