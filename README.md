@@ -1,4 +1,4 @@
-#README Generator <README Generator>
+# README Generator <README Generator>
   
 ## Description  
 - This project is a command-line application that dynamically generates an OUTPUT_README.md file from a user's input 
@@ -61,11 +61,6 @@ Tests for this app are planed as future development
 
 
 ## Questions 
-If you have any questions about this application, you can find more information on my GitHub,  or email me at: 
-
-Please enter your GitHub username:
-[bdibil](https://github.com/bdibil)
-
-Please enter your Email address:
-[me@me.com](mailto:me@me.com)
+If you have any questions about this application:
+- You can find more information on my GitHub [bdibil](https://github.com/bdibil)
 
