@@ -1,7 +1,7 @@
-# B <B>
+# Hello World <Hello World>
 
 ## Description  
-B
+My description...
 
 ## Table of Contents 
 - [Installation](#installation)
@@ -12,10 +12,10 @@ B
 - [Questions](#Questions)
 
 ## Installation
-B
+To install follow...
 
 ## Usage    
-B
+To use the app...
 
 ## License 
 Boost Software License - Version 1.0 - August 17th, 2003
@@ -44,14 +44,14 @@ DEALINGS IN THE SOFTWARE.
 
 
 ## Contributing  
-B
+To contribute...
 
 ## Tests     
-B
+No tests were used.
 
 
 ## Questions 
 If you have any questions about this application, 
-you can find more information on my GitHub: [B](https://github.com/B)  
-or you can email me at: [B](mailto:B)  
+you can find more information on my GitHub: [bdibil](https://github.com/bdibil)  
+or you can email me at: [me@me.com](mailto:me@me.com)  
 
