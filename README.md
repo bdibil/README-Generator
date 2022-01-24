@@ -53,7 +53,7 @@ SOFTWARE.
 
 
 ## Contributing  
-There are no contributing guidelines at this time as they are planed for future development.
+There are no contributing guidelines at this time.
 
 
 ## Tests     
