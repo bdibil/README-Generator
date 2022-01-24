@@ -62,6 +62,6 @@ Tests for this app are planed as future development.
 
 
 ## Questions 
-If you have any questions about this application:
+If you have any questions about this application: 
 You can find more information on my GitHub [bdibil](https://github.com/bdibil)
 
