@@ -26,6 +26,7 @@ To use this application:
 2. Respond to the command-line application with information about your project
 
 A walkthrough video is included below: 
+  
 [README Generator - Walkthrough](https://www.youtube.com/watch?v=2TCYB8Jqfo8)
 
 
