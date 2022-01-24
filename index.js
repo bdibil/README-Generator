@@ -29,7 +29,7 @@ const userLicense = new Question('list', questions[8], 'license', licenseChoice)
 let badge = ''
 let licenseText = ['MIT', 'Boost 1.0', 'The Unlicense']
 let licenseString = ''
-let licenseTypes = ['mit.txt', 'boost.txt', 'unlicense.txt']
+let licenseTypes = ['./assets/mit.txt', './assets/boost.txt', './assets/unlicense.txt']
 
 
 //    Function   to    Read   license's text

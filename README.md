@@ -9,7 +9,7 @@
 ## Table of Contents 
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)    ![MIT](https://img.shields.io/apm/l/vim-mode)
+- [License](#license)  ![GitHub](https://img.shields.io/github/license/bdibil/README-Generator?style=plastic)
 - [Contributing](#contributing)
 - [Tests](#Tests)
 - [Questions](#Questions)
@@ -17,7 +17,8 @@
 ## Installation  
 To install this application:
 1. Clone this repo 
-2. Enter `npm i` on your Node.js terminal to install dependencies
+2. Open your Node.js terminal in the project's path   
+3. Enter `npm i` in the terminal to install dependencies
 
 ## Usage    
 To use this application:
@@ -31,7 +32,7 @@ A walkthrough video is included below:
 ## License  
 MIT License
 
-Copyright (c) 2022 [bdibil](https://github.com/bdibil)
+Copyright (c)  2022  [bdibil](https://github.com/bdibil)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -53,7 +54,7 @@ SOFTWARE.
 
 
 ## Contributing  
-There are no contributing guidelines at this time as they are planed for future development.
+There are no contributing guidelines at this time.
 
 
 ## Tests     
