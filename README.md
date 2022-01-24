@@ -26,7 +26,7 @@ To use this application:
 2. Respond to the command-line application with information about your project
 
 A walkthrough video is included below: 
-- `add link to the video here`
+`add link to the video here`
 
 
 ## License  
@@ -63,5 +63,6 @@ Tests for this app are planed as future development.
 
 ## Questions 
 If you have any questions about this application: 
+  
 You can find more information on my GitHub [bdibil](https://github.com/bdibil)
 
