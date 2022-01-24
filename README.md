@@ -9,7 +9,7 @@
 ## Table of Contents 
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)  ![GitHub](https://img.shields.io/github/license/bdibil/README-Generator?style=plastic)
+- [License](#license)  ![GitHub](https://img.shields.io/github/license/bdibil/README-Generator)
 - [Contributing](#contributing)
 - [Tests](#Tests)
 - [Questions](#Questions)
