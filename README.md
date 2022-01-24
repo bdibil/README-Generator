@@ -17,7 +17,8 @@
 ## Installation  
 To install this application:
 1. Clone this repo 
-2. Enter `npm i` on your Node.js terminal to install dependencies
+2. Open your Node.js terminal in the project's path   
+3. Enter `npm i` in the terminal to install dependencies
 
 ## Usage    
 To use this application:
@@ -61,6 +62,6 @@ Tests for this app are planed as future development.
 
 
 ## Questions 
-If you have any questions about this application:
+If you have any questions about this application: 
 You can find more information on my GitHub [bdibil](https://github.com/bdibil)
 
